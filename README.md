@@ -30,4 +30,4 @@ The script automates the following:
 - Improved understanding of form automation and file handling.
 
 ## Author
-[Your Name](https://www.linkedin.com/in/your-profile)
+Ghozal Imam (https://www.linkedin.com/in/ghozalimam)
